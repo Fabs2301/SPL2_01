@@ -7,6 +7,7 @@
 - [ ] git Übungen
 
 ### Teil 2
-- [ ] python 3.x installieren
+- [x] python 3.x installieren
+- [x] cmder (linux console emulator) installieren
 - [ ] erste Schritte mit Python
 - [ ] programmieren mit Python
